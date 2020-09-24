@@ -1,0 +1,14 @@
+{
+  "name": "update-pkgjson",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "homepage": "https://github.com/wujianfei/update-pkgjson.git",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wujianfei/update-pkgjson.git"
+  }
+}
